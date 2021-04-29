@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow: 
+Sitemap: https://peaceful-mountain.herokuapp.com/sitemap.xml
